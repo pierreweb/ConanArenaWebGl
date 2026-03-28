@@ -2,9 +2,10 @@
 ![Arena Brawler Banner](content.webp)
 
 Conan The Barbarian: Arena Brawler is a 3D "action game" made with Unity in which you play as Conan and fight monsters in a brutal arena. The game combines melee combat, health/mana management, and progression through different waves of enemies.
--not really a game just for illustrate conan adventure
--change enemy:E; music:M or , ; move:keyboard and gamepad shift to run.
--portal:T; quit:esc;  fights are automatic.
+
+-not really a game just for illustrate conan adventure.  
+-change enemy:E; music:M or , ; move:keyboard and gamepad shift to run.  
+-portal:T; quit:esc;  fights are automatic.  
 -gain life:cross the life foutains; invinsible:find the Crom stone.
 
 ## 🎮 Play the game
